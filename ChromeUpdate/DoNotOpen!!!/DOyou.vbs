@@ -1,0 +1,1 @@
+X=MsgBox("Do you want me to stop :( NO!!!",4+16,"VIRUS")
